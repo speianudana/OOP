@@ -1,5 +1,5 @@
 package Dana;
 
-class OperationsStaff {
-    Patient[]patients;
+class OperationsStaff extends Staff{
+    Patient patiens;
 }

@@ -14,5 +14,4 @@ class Person{
     Phone phone;
     Hospital []hospitals;
 
-
 }

@@ -2,6 +2,6 @@ package Dana;
 
 
 class Departament{
-    Hospital[]hospitals;
+    Staff staffs;
 
 }

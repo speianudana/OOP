@@ -3,27 +3,37 @@ package Dana;
 public class Main {
 
     public static void main(String[] args) {
+
         A aa=new A();
-        B bb=new B();
-        C cc=new C();
-        D dd=new D();
-        E ee=new E();
-        F ff=new F();
-        G gg=new G();
-        H hh=new H();
-        I ii=new I();
-        J jj=new J();
-//
         System.out.println(aa.toString());
+        B bb=new B();
+
         System.out.println(bb.toString());
+
+        C cc=new C();
         System.out.println(cc.toString());
+
+        D dd=new D();
         System.out.println(dd.toString());
+
+        E ee=new E();
         System.out.println(ee.toString());
+
+        F ff=new F();
         System.out.println(ff.toString());
+
+        G gg=new G();
         System.out.println(gg.toString());
+
+        H hh=new H();
         System.out.println(hh.toString());
+
+        I ii=new I();
         System.out.println(ii.toString());
-        System.out.println(gg.toString());
+
+        J jj=new J();
+        System.out.println(jj.toString());
+
         A aaa=new A ("aaa",new X("xxx"));
         System.out.println(aaa.toString());
 

@@ -1,4 +1,4 @@
 package Dana;
 
-public class AdministrativeStaff {
+public class AdministrativeStaff extends Staff {
 }

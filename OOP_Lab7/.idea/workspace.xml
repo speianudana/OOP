@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90f629b7-b620-48a9-a654-e07f1a0b6e7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8c446b40-fd43-4c31-bd6d-4eedac2029fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP_Lab5/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OOP_Lab6/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/F.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/F.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/G.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/G.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/H.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/H.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/I.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/I.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/J.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/J.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab5/Dana/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/Dana/X.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dana/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dana/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/F.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/F.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/G.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/G.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/H.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/H.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/I.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/I.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/J.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/J.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/out/production/Lab5/Dana/X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lab5/src/Dana/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab5/src/Dana/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP_Lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP_Lab6/src/Dana/AdministrativeStaff.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab6/src/Dana/AdministrativeStaff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOP_Lab6/src/Dana/Departament.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lab6/src/Dana/Departament.java" afterDir="false" />
@@ -35,66 +36,80 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1060831897">
+    <session id="1867043901">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1819" />
+          <entry key="java" value="2308" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1819" />
+          <entry key="JAVA" value="2308" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
     </session>
-    <session id="338602973">
+    <session id="-54424035">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.50" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="109" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="109" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Dana/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="304">
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <folding>
+                <marker date="1540125878229" expanded="true" signature="778:847" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Dana/TextFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +129,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dana/A.java" />
         <option value="$PROJECT_DIR$/src/Dana/Main.java" />
+        <option value="$PROJECT_DIR$/src/Dana/TextFragment.java" />
       </list>
     </option>
   </component>
@@ -125,11 +140,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="677" />
-    <option name="y" value="226" />
-    <option name="width" value="483" />
-    <option name="height" value="595" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="354" />
+    <option name="y" value="147" />
+    <option name="width" value="948" />
+    <option name="height" value="616" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,21 +153,22 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="OOP_Lab5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_Lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_Laboratory7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_Laboratory7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OOP_Lab5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_Lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_Laboratory7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_Laboratory7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="OOP_Lab5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OOP_Lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_Laboratory7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_Laboratory7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Dana" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -160,14 +176,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539850828383" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540127992428" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -185,7 +200,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Dana.Main" />
-      <module name="Lab5" />
+      <module name="OOP_Laboratory7" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -204,37 +219,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="90f629b7-b620-48a9-a654-e07f1a0b6e7a" name="Default Changelist" comment="" />
-      <created>1538630479814</created>
+      <changelist id="8c446b40-fd43-4c31-bd6d-4eedac2029fd" name="Default Changelist" comment="" />
+      <created>1540046999120</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538630479814</updated>
-      <workItem from="1538630483697" duration="11311000" />
-      <workItem from="1539076445021" duration="628000" />
-      <workItem from="1539173923532" duration="2897000" />
-      <workItem from="1539191955483" duration="595000" />
-      <workItem from="1539840669373" duration="4155000" />
-      <workItem from="1540046581250" duration="1018000" />
+      <updated>1540046999120</updated>
+      <workItem from="1540047009598" duration="10314000" />
+      <workItem from="1540110925852" duration="13227000" />
+      <workItem from="1540143610183" duration="227000" />
+      <workItem from="1540144450595" duration="659000" />
+      <workItem from="1540197968456" duration="1454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20604000" />
+    <option name="totallyTimeSpent" value="25918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49481866" visible="true" weight="7.564296E-4" />
+      <window_info id="Structure" order="1" sideWeight="0.5051814" side_tool="true" visible="true" weight="7.564296E-4" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24918033" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3672131" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -243,7 +257,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.35409835" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,20 +276,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dana/B.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/C.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/D.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/E.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/F.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/J.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/K.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/L.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/M.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dana/A.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dana/Count.java" />
     <entry file="file://$PROJECT_DIR$/src/Dana/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="304">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <marker date="1540125878229" expanded="true" signature="778:847" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dana/TextFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
