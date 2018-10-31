@@ -1,37 +1,45 @@
 package Dana;
 
+import java.util.*;
+
 public class TextFragment {
     String textfragment;
 
     public TextFragment() {
     }
- public TextFragment(String textfragment){
-        this.textfragment=textfragment;
- }
 
-     int countS(String str1){
-        int  sentenceCount=1;
+    public TextFragment(String textfragment) {
+        this.textfragment = textfragment;
+    }
+
+    int countS(String str1) {
+        int sentenceCount = 1;
 //		String myFile = "The quick brown fox jumps over the lazy dog. Wow!!!!";
         String SENTENCE_DELIMETERS = ".?!";
-        for(int i=0;i<str1.length()-1;i++){
-            for(int j=0;j<SENTENCE_DELIMETERS.length();j++){
-                if(str1.charAt(i)==SENTENCE_DELIMETERS.charAt(j)){
-                    if(str1.charAt(i+1)==SENTENCE_DELIMETERS.charAt(j)){
-                        sentenceCount--;}
-                    sentenceCount++;  } } }
-    return sentenceCount;}
-public int countWords(String s){
-    int count = 1;
-
-		for (int i = 0; i < s.length() - 1; i++)
-    {
-        if ((s.charAt(i) == ' ') && (s.charAt(i + 1) != ' '))
-        {
-            count++;
-
+        for (int i = 0; i < str1.length() - 1; i++) {
+            for (int j = 0; j < SENTENCE_DELIMETERS.length(); j++) {
+                if (str1.charAt(i) == SENTENCE_DELIMETERS.charAt(j)) {
+                    if (str1.charAt(i + 1) == SENTENCE_DELIMETERS.charAt(j)) {
+                        sentenceCount--;
+                    }
+                    sentenceCount++;
+                }
+            }
         }
+        return sentenceCount;
     }
-    return count+1;}
+
+    public int countWords(String s) {
+        int count = 0;
+
+        for (int i = 0; i < s.length() - 1; i++) {
+            if ((s.charAt(i) == ' ') && (s.charAt(i + 1) != ' ')) {
+                count++;
+
+            }
+        }
+        return count + 1;
+    }
 
     int consonantsNumber(String sentence) {
 
@@ -51,8 +59,6 @@ public int countWords(String s){
     }
 
 
-
-
     int vowelNumber(String sentence) {
 
         int vowelCount = 0;
@@ -69,56 +75,42 @@ public int countWords(String s){
         }
         return vowelCount;
     }
-void wordFrequency(String text){
-  //  String text = "the quick brown fox jumps fox fox over the lazy dog brown";
-    String[] keys = text.split(" ");
-    String[] uniqueKeys;
-    int count = 0;
-        System.out.println(text);
-    uniqueKeys = getUniqueKeys(keys);
-        for(String key: uniqueKeys)
-    {
-        if(null == key)
-        {
-            break;
+
+
+    private static LinkedHashMap<String, Integer> sortHashMap(Map<String, Integer> words) {
+        List<Map.Entry<String, Integer>> list = new LinkedList<>(words.entrySet());
+        list.sort((o1, o2) -> o2.getValue().compareTo(o1.getValue()));
+        LinkedHashMap<String, Integer> sortedMap = new LinkedHashMap<>();
+        for (Map.Entry<String, Integer> entry : list) {
+            sortedMap.put(entry.getKey(), entry.getValue());
         }
-        for(String s : keys)
-        {
-            if(key.equals(s))
-            {
-                count++;
-            }
-        }
-        System.out.println("Count of ["+key+"] is : "+count);
-        count=0;
+        return sortedMap;
     }
-    
-}
-    public  String[] getUniqueKeys(String[] keys)
-    {
-        String[] uniqueKeys = new String[keys.length];
-        uniqueKeys[0] = keys[0];
-        int uniqueKeyIndex = 1;
-        boolean keyAlreadyExists = false;
-        for(int i=1; i<keys.length ; i++)
-        {
-            for(int j=0; j<=uniqueKeyIndex; j++)
-            {
-                if(keys[i].equals(uniqueKeys[j]))
-                {
-                    keyAlreadyExists = true;
-                }
+
+    public  void top5words(String sentence) {
+        HashMap<String, Integer> wordCountMap = new HashMap<String, Integer>();
+        String[] words = sentence.toLowerCase().split(" ");
+        for (String word : words) {
+            if (wordCountMap.containsKey(word)) {
+                wordCountMap.put(word, wordCountMap.get(word) + 1);
+            } else {
+                wordCountMap.put(word, 1);
             }
-            if(!keyAlreadyExists)
-            {
-                uniqueKeys[uniqueKeyIndex] = keys[i];
-                uniqueKeyIndex++;
-            }
-            keyAlreadyExists = false;
         }
-        return uniqueKeys;
+        LinkedHashMap<String, Integer> stringIntegerLinkedHashMap = sortHashMap(wordCountMap);
+        int topValue = 1;
+        for (Map.Entry<String, Integer> entry : stringIntegerLinkedHashMap.entrySet()) {
+            String key = entry.getKey();
+            Integer value = entry.getValue();
+            System.out.println(topValue + key + " : " + value+" times");
+            if (topValue == 5) {
+                break;
+            }
+            topValue++;
+        }
     }
-}
 
 
 
+
+  }
